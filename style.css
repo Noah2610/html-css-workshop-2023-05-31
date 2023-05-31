@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.flip {
+    transform: rotateX(180deg);
+}
+
+#main-title {
+    rotate: 8deg;
+}
+
+.infobox {
+    background-color: #182631;
+    color: #ffffff;
+    padding: 16px;
+    border: solid #000000 2px;
+}
